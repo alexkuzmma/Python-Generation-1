@@ -27,14 +27,14 @@
 # print(p)
 
 # 2 Площадь и длина
-# import math
-#
-# R = float(input())
-# S = math.pi * R ** 2
-# C = 2 * math.pi * R
-#
-# print(S)
-# print(C)
+import math
+
+R = float(input())
+S = math.pi * R ** 2
+C = 2 * math.pi * R
+
+print(S)
+print(C)
 
 # 3 Средние значения
 # import math
