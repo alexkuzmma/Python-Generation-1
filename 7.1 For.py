@@ -1,5 +1,4 @@
 # Тема урока: цикл for
-from difflib import Match
 
 #1 Python is awesome
 # for i in range(10):
