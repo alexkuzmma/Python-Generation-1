@@ -8,14 +8,21 @@
 #     print(i)
 
 #2 Последовательность чисел 2
+# m = int(input())
+# n = int(input())
+#
+# if m < n:
+#     for i in range(m, n + 1):
+#         print(i)
+# if m > n:
+#     for i in range(m, n - 1, -1):
+#         print(i)
+# if m == n:
+#     print(m)
+
+#3 Последовательность чисел 3
 m = int(input())
 n = int(input())
 
-if m < n:
-    for i in range(m, n + 1):
-        print(i)
-if m > n:
-    for i in range(m, n - 1, -1):
-        print(i)
-if m == n:
-    print(m)
+for i in range(m, n, -2):
+    print(i)
