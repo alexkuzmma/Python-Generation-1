@@ -3,3 +3,9 @@
 # a = int(input())
 #
 # print(a // 60, a % 60)
+
+# 1.2
+# a = int(input())
+#
+# print(a // 60, a % 60)
+
