@@ -9,3 +9,10 @@
 #
 # print(a // 60, a % 60)
 
+# 1.3
+a, b = int(input()), int(input())
+
+if a == b:
+    print('YES')
+else:
+    print('NO')
