@@ -1,4 +1,7 @@
 # Informatics lesson ( homeworks )
+
+# Lesson 1
+
 # 1.1
 # a = int(input())
 #
@@ -18,6 +21,6 @@
 #     print('NO')
 
 # 1.4
-a, b, c, d, e, k = int(input()), int(input()), int(input()), int(input()), int(input()), int(input())
-
-print(min(a, b, c, d, e, k))
+# a, b, c, d, e, k = int(input()), int(input()), int(input()), int(input()), int(input()), int(input())
+#
+# print(min(a, b, c, d, e, k))

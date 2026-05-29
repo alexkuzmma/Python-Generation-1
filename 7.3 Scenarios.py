@@ -1,11 +1,15 @@
 # Частые сценарии
 
 # 1 Количество чисел
-a, b = int(input()), int(input())
-total = 0
+# a, b = int(input()), int(input())
+# total = 0
+#
+# for i in range(a, b + 1):
+#     if i ** 3 % 10 == 4 or i ** 3 % 10 == 9:
+#         total += 1
+# print(total)
 
-for i in range(a, b + 1):
-    if i ** 3 % 10 == 4 or i ** 3 % 10 == 9:
-        total += 1
-print(total)
+# 2 Сумма чисел
+a = int(input())
 
+print(a * 2)
