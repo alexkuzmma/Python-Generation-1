@@ -16,4 +16,6 @@ print(a * 2)
 b = 25
 
 if a > b:
-    print(b*12)
+    print(b * 12)
+else:
+    print(a * 12)
