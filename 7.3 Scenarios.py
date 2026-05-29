@@ -13,3 +13,7 @@
 a = int(input())
 
 print(a * 2)
+b = 25
+
+if a > b:
+    print(b*12)
